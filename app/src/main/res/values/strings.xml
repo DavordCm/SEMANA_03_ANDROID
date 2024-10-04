@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">App-Formularios</string>
+    <string name="Titulo">Calculadora</string>
+    <string name="ValNumero1">Ingresar Numero</string>
+    <string name="ValCalcular">Calcular operaciones</string>
 </resources>
